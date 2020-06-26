@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestScannerApp</string>
+    <string name="scan_btn_text">SCAN</string>
+    <string name="scan_error_message">Your barcode was not identified. To try again please press SCAN</string>
+</resources>
